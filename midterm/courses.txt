@@ -1,0 +1,221 @@
+--
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+GPA: CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+GPA3CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+GPA3.25CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+GPA: 3.25 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+GPA: 3.25 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+GPA: 3.25 
+CS 604 Introduction to C Programming
+Grade: A
+ 
+CS 610 Itermediate Programmig in C
+Grade: C
+ 
+CS 622 Database Systems
+Grade: A
+ 
+CS 646 Introduction to Computer Security
+Grade: B
+ 
+GPA: 3.25 
